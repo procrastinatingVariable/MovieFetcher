@@ -1,0 +1,6 @@
+framework module Pods_MovieFetcher {
+  umbrella header "Pods-MovieFetcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
