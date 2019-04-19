@@ -43,6 +43,3 @@ extension Movie: Decodable {
     }
 }
 
-extension Movie: Encodable {
-    
-}

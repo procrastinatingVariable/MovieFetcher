@@ -6,6 +6,7 @@ target 'MovieFetcher' do
   use_frameworks!
 
   # Pods for MovieFetcher
-  pod 'Kingfisher', '~> 5.3'
+  pod 'Kingfisher', '~> 4.9.0'
   pod 'Alamofire', '~> 4.7.2'
 end
+
